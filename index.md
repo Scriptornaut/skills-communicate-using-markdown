@@ -14,3 +14,25 @@ You probably enjoy tacos. It's a great meal, but would you consider it a sandwic
 ### Section 2: Hotdogs
 Hotdogs arent sandwiches... no... wait... are they?
 
+## AI to the rescue. 
+
+```sh
+# Defining the critical criteria
+breadType="open"
+ingredientComplexity="high"
+culturalIdentity="distinct"
+
+# The decisive moment
+echo "Deliberating the verdict..."
+sleep 2
+
+# The if statement to "determine" the outcome
+if [[ "$breadType" == "open" && "$ingredientComplexity" == "high" && "$culturalIdentity" == "distinct" ]]; then
+    echo "Verdict: A taco, while sharing some characteristics with the venerable sandwich, defies conventional categorization due to its open bread format, intricate ingredient composition, and distinct cultural identity. Therefore, it is NOT a sandwich."
+else
+    echo "Verdict: Against all odds and definitions, our analysis has somehow concluded that a taco could be considered a sandwich. This outcome is highly suspect and likely the result of a glitch in the matrix."
+fi
+
+echo "This groundbreaking inquiry has now concluded. Please resume your regular culinary adventures."
+```
+
