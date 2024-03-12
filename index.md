@@ -1,3 +1,4 @@
+
 # Welcome to this Markdown Page
 This section is an overview of the topics on the page. Here is some more content.
 Ever wonder what foods qualify as sandwiches?
@@ -35,4 +36,15 @@ fi
 
 echo "This groundbreaking inquiry has now concluded. Please resume your regular culinary adventures."
 ```
+
+### Adding a list because I want to 'Git' better
+
+- [ ] Make Tacos
+- [ ] Make Sandwiches
+- [ ] Make Hotdogs
+- [ ] Engage in deep contemplation
+
+
+
+
 
